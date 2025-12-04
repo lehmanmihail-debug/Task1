@@ -10,4 +10,4 @@
       2 bin
       2 bash_history
       1 /today_backup/app
-      1 /project/bin/app
+      1 /project/bin/app 
