@@ -1,0 +1,5 @@
+44K	data
+32K	home
+68K	project
+32K	system
+44K	work
